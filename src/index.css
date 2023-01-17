@@ -46,6 +46,10 @@ Medium: 11px
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+  /* outline for development only */
+  /* outline: 3px solid limegreen !important; */
+  /* background: rgb(0 100 0 / 0.1) !important; */
 }
 
 * {
