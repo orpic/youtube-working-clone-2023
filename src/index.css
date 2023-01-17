@@ -23,22 +23,14 @@ Large: 1.8
 - Letter spacing
 
 --- 02 COLORS
-- Primary: #e67e22
+
 - Tints:
-#eb984e - darkest tint
-#fae5d3 - medium tint
-#fdf2e9 - lightest tint
 
 - Shades: 
-#cf711f
-#45260a
 
 - Greys
-#888
-#767676 (lightest grey allowed on #fff)
-#6f6f6f (lightest grey allowed on #fdf2e9)
 #555
-#333
+
 
 --- 05 SHADOWS
 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
